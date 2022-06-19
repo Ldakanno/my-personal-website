@@ -1,0 +1,20 @@
+body {
+    background: #FFFFFF;
+}
+
+.topPart {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 300px;
+    font-style: Georgia;
+    text-shadow: 10px 10px #000
+}
+

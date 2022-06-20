@@ -48,7 +48,7 @@ body {
     text-align: center;
 }
 
-.writing {
+#writing {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -57,10 +57,10 @@ body {
     font-family: Chalkduster;
 }
 
-.eraser {
+#eraser {
     height: 50px;
     width: 100px;
-    margin-left: 47%;
+    margin-left: 46%;
     text-align: center;
     font-family: Geneva;
     background-color: #CB1717;
@@ -75,11 +75,13 @@ h4 {
 
 .feedback {
     margin-left: 27%;
+    background-color: #000;
 }
 
 #pizza {
     height: auto;
-    width: 30%;
+    width: 37%;
+    margin-left: 30%;
 }
 
 h3 {

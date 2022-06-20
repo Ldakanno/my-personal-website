@@ -76,3 +76,14 @@ h4 {
 .feedback {
     margin-left: 27%;
 }
+
+#pizza {
+    height: auto;
+    width: 30%;
+}
+
+h3 {
+    font-family: Georgia;
+    font-size: 30px;
+    text-align: center;
+}

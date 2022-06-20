@@ -57,8 +57,22 @@ body {
     font-family: Chalkduster;
 }
 
-#eraser {
-    height: auto;
+.eraser {
+    height: 50px;
     width: 100px;
-    margin-left: 5%;
+    margin-left: 47%;
+    text-align: center;
+    font-family: Geneva;
+    background-color: #CB1717;
+    color: #fff;
+}
+
+h4 {
+    text-align: center;
+    font-family: Rockwell;
+    font-size: 50px;
+}
+
+.feedback {
+    margin-left: 27%;
 }
